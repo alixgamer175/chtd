@@ -1,1 +1,2 @@
-# chtd
+# ChaD App  
+A Decentliyzed Chat App ..  
