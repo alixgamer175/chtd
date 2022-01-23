@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>ChtX</h1>
+<h1>Chat Defi</h1>
   {#if $username}
     <div class="user-bio">
       
